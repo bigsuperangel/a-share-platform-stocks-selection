@@ -13,6 +13,7 @@
     "echarts": "^5.5.0",
     "gsap": "^3.12.7",
     "marked": "^15.0.11",
+    "stock-platform-scanner-frontend": "file:",
     "vue": "^3.4.27"
   },
   "devDependencies": {
